@@ -1,0 +1,7 @@
+﻿  services:
+    aspnetshutdown:
+      image: mlrosenquist/aspnetshutdown
+      build:
+        context: ./src/AspNetShutdown
+        dockerfile: Dockerfile
+

@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetShutdown", "src\AspNetShutdown\AspNetShutdown.csproj", "{7062014F-6E98-476F-8B96-46B7262171FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DC5146A0-ECDA-4EE1-BE55-71C6B653A435}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7062014F-6E98-476F-8B96-46B7262171FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7062014F-6E98-476F-8B96-46B7262171FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7062014F-6E98-476F-8B96-46B7262171FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7062014F-6E98-476F-8B96-46B7262171FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
